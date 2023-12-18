@@ -1,0 +1,29 @@
+[33mcommit 4a1faf79fe65fea404c27c18b6958c44a81ab817[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/feature/test3[m[33m, [m[1;32mfeature/test3[m[33m)[m
+Author: OrengeCake <skid34@naver.com>
+Date:   Mon Dec 18 15:09:07 2023 +0900
+
+    merge test2
+
+[33mcommit 61d2b6ee299bf4fdb1ba054d00a2a6ec89892071[m[33m ([m[1;31morigin/feature/test2[m[33m, [m[1;32mfeature/test2[m[33m)[m
+Author: OrengeCake <skid34@naver.com>
+Date:   Mon Dec 18 14:28:08 2023 +0900
+
+    merge test
+
+[33mcommit 2041da55b9a6ef87a36b2ab15c2a39ce6f95c527[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: OrengeCake <skid34@naver.com>
+Date:   Mon Dec 18 11:55:33 2023 +0900
+
+    add test2
+
+[33mcommit 9b8dcf7dd3437ba32fd3fbbaae12338c4b10cb85[m
+Author: OrengeCake <skid34@naver.com>
+Date:   Mon Dec 18 11:24:10 2023 +0900
+
+    commit test
+
+[33mcommit c9ed13152167900ddd81ceed0b2ee3c601e3daf9[m
+Author: OrengeCake <154101628+OrengeCake@users.noreply.github.com>
+Date:   Mon Dec 18 10:26:37 2023 +0900
+
+    Initial commit
